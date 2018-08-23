@@ -1,4 +1,5 @@
+.title {color: #1a3c01; font-size: 65px}
 h2 {
-  background-color: #607d8b;
-  color: #ffffff;
+  background-color: #cade7d;
+  color: #ffffff; padding: 5px; font-size: 25px;
 }
